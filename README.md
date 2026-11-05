@@ -101,5 +101,5 @@ g++ matrix.o timing.o -o timing
 perf stat -e L1-dcache-loads,L1-dcache-load-misses,LLC-loads,LLC-load-misses,branches,branch-misses ./timing
 ```
  
-`timing.cpp` runs all three implementations, so for per-implementation counters, comment out the others in `main()` and rebuild.
+
  
