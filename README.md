@@ -44,6 +44,14 @@ A performance comparison of three square matrix multiplication implementations i
 | 128 | 2.0× | 3.1× |
 | 512 | 6.3× | 24.9× |
 | 1024 | 6.0× | 28.1× |
+
+<p>
+  <img width="420" height="280" alt="Runtime vs matrix size" src="https://github.com/user-attachments/assets/eea7c106-600f-4a10-a010-2adca47ce241" />
+  <img width="420" height="280" alt="L1 cache load miss rate vs matrix size" src="https://github.com/user-attachments/assets/2dd0f666-f90f-4e72-84c2-90b7f131adce" />
+</p>
+
+
+
  
 ## Findings
  
