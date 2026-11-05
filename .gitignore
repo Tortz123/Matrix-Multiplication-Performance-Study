@@ -1,0 +1,11 @@
+# Third-party libraries (download separately, see README)
+eigen-5.0.0/
+vectorclass/
+
+# Build output
+*.o
+a.out
+myprog
+
+# Editor settings
+.vscode/
